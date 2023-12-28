@@ -1,6 +1,8 @@
 ### Hi there, I'm CHAEHEON JEONG 👋
+I am a student who wants to grow every day.
 
 #### Web Developer
+
 
 🛠️ Stacks
 
