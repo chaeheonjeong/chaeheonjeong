@@ -11,8 +11,10 @@
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 
-👩🏻‍💻 About Me
+👩🏻 About Me
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@cogjs3210)](https://velog.io/@cogjs3210)
 
-![chaeheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeheonjeong&theme=dark&show_icons=true)
+👩🏻‍💻 Algorithm Silver Level.
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cogjs)](https://solved.ac/cogjs/)
