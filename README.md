@@ -15,4 +15,4 @@
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@cogjs3210)](https://velog.io/@cogjs3210)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![chaeheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeheonjeong&theme=dark&show_icons=true)
