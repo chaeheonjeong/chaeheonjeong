@@ -12,9 +12,6 @@
 <h3>👩🏻 About Me</h3>
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@cogjs3210)](https://velog.io/@cogjs3210)
-<h3>👩🏻‍💻 Algorithm Silver Level.</h3>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cogjs)](https://solved.ac/cogjs/)
 
 <h3>👩🏻 Github Stats</h3>
 <a href="#">
