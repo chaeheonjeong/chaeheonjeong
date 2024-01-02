@@ -1,6 +1,7 @@
 <h1>Hi there, I'm CHAEHEON JEONG 👋</h1>
 
 <h3>Web Developer</h3>
+I want to become a developer who values experience
 
 <h3>🛠️ Stacks</h3>
 
