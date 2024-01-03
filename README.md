@@ -3,6 +3,8 @@
 <h3>Web Developer</h3>
 I want to become a developer who values experience.
 
+경험을 중요시하는 개발자가 되고 싶습니다.
+
 <h3>🛠️ Stacks</h3>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=React&logoColor=white"/>
