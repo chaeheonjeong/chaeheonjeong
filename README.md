@@ -21,10 +21,6 @@ I want to become a developer who values experience.
 <a href="#">
   <img src = "https://github-readme-stats.vercel.app/api?username=chaeheonjeong&show_icons=true&theme=radical" height = "180px" width = "40%">
 </a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeheonjeong&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="175px" width = "50%">
-</a>
-
 <div>
   <h3><b>📍 Profile Visitor Count </b></h3>
 </div>
