@@ -21,11 +21,3 @@ I want to become a developer who values experience.
 <a href="#">
   <img src = "https://github-readme-stats.vercel.app/api?username=chaeheonjeong&show_icons=true&theme=radical" height = "180px" width = "40%">
 </a>
-<div>
-  <h3><b>📍 Profile Visitor Count </b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p>   
-  <img src="https://profile-counter.glitch.me/chaeheonjeong/count.svg" />  
-</p>
