@@ -1,11 +1,23 @@
 ## 정채헌 (CHAEHEON JEONG)
 
-### Introduce
 모든 경험을 성장의 기회로 삼고,
 
 사람들에게 편리함을 제공하는 서비스를 만들고자 합니다.
 
-<br>
+## Skill
+- **Languages**
+  
+  Java, JavaScript, HTML/CSS
+- **Fameworks**
+
+  Spring Boot, Node.js, Express.js, React.js
+- **Infrastructure & Databases**
+  
+  AWS, Docker, MariaDB, MongoDB
+- **Tools & IDEs**
+
+  Github, IntelliJ, Eclipse, VS Code
+
 
 ### Project
 - [빌려방: 부동산 및 대출 추천 플랫폼](https://github.com/PDA-BillyBang) (**2024.05 - 2024.06**)
@@ -16,7 +28,8 @@
 <br>
 
 ### Education
-신한투자증권 프로 디지털 아카데미 3기 (2023.12 ~ 2024.06)
+- 한성대학교 컴퓨터공학부 &nbsp; | &nbsp; 졸업 (2020.03 ~ 2024.08)
+- 신한투자증권 프로 디지털 아카데미 3기 &nbsp; | &nbsp; 수료 (2023.12 ~ 2024.06)
 
 <br>
 
