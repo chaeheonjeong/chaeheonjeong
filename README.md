@@ -1,23 +1,24 @@
-<h1>Hi there, I'm CHAEHEON JEONG 👋</h1>
+<h2>CHAEHEON JEONG</h2>
 
-<h3>Web Developer</h3>
-I want to become a developer who values experience.
-
+<h3>Introduce</h3>
 경험을 중요시하는 개발자가 되고 싶습니다.
 
-<h3>🛠️ Stacks</h3>
+<h3>Project</h3>
+- [빌려방: 부동산 및 대출 추천 플랫폼](https://github.com/PDA-BillyBang) (**2024.05.- 2024.06.**)
+- [StockMate: 모의투자 및 투자전략 공유 플랫폼](https://github.com/Invest-SNS) (**2024.03. - 2024.04**)
+- [LikeAPro: 프로 디지털 아카데미 내부 커뮤니티] (https://github.com/LikeAProPDA) (**2024.02**)
+- [개복치 키우기 게임] (https://github.com/KillSunfish/killsunfish) (**2024.04**)
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=React&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white"/> 
-<h3>💪🏼 Tools</h3> 
+<h3>Education</h3>
+신한투자증권 프로 디지털 아카데미 3기
+클라우드 기반 풀스택 개발자 교육과정
+2023.12. ~ 2024.06. | 수료
 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+<h3>Certification</h3>
+|정보처리기사|한국산업인력공단|2023.11.15|
+|SQL 개발자|한국데이터산업진흥원|2023.10.06|
+|TOEIC Speaking (AL, 160)|한국TOEIC위원회|2023.01.15|
 
-<h3>💻 Algorithm</h3>
 
+<h3>Algorithm</h3>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cogjs)](https://solved.ac/cogjs/)
-
-<h3>👩🏻 Github Stats</h3>
-<a href="#">
-  <img src = "https://github-readme-stats.vercel.app/api?username=chaeheonjeong&show_icons=true&theme=radical" height = "180px" width = "40%">
-</a>
