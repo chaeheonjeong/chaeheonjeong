@@ -4,7 +4,8 @@
 
 사람들에게 편리함을 제공하는 서비스를 만들고자 합니다.
 
-## Skill
+
+### Skill
 - **Languages**
   
   Java, JavaScript, HTML/CSS
