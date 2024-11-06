@@ -1,4 +1,4 @@
-## CHAEHEON JEONG
+## 정채헌 (CHAEHEON JEONG)
 
 ### Introduce
 **경험을 중요시하는 개발자가 되고 싶습니다.**
