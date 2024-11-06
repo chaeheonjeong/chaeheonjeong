@@ -4,6 +4,7 @@
 
 사람들에게 편리함을 제공하는 서비스를 만들고자 합니다.
 
+<br> 
 
 ### Skill
 - **Languages**
@@ -19,6 +20,7 @@
 
   Github, IntelliJ, Eclipse, VS Code
 
+<br>
 
 ### Project
 - [빌려방: 부동산 및 대출 추천 플랫폼](https://github.com/PDA-BillyBang) (**2024.05 - 2024.06**)
