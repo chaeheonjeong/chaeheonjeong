@@ -10,7 +10,7 @@
 - **Languages**
   
   Java, JavaScript, HTML/CSS
-- **Fameworks**
+- **Fameworks & Libraries**
 
   Spring Boot, Node.js, Express.js, React.js
 - **Infrastructure & Databases**
