@@ -1,6 +1,4 @@
 ## 정채헌 (CHAEHEON JEONG)
-<br> 
-
 ### Skill
 - **Languages**
   
