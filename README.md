@@ -16,6 +16,7 @@
 <br>
 
 ### Project
+- [캐치핑: 식당 예약 플랫폼](https://github.com/Trinity-goorm) (**2025.01 - 2025.04**)
 - [빌려방: 부동산 및 대출 추천 플랫폼](https://github.com/PDA-BillyBang) (**2024.05 - 2024.06**)
 - [StockMate: 모의투자 및 투자전략 공유 플랫폼](https://github.com/Invest-SNS) (**2024.03 - 2024.04**)
 - [LikeAPro: 프로 디지털 아카데미 내부 커뮤니티](https://github.com/LikeAProPDA) (**2024.02**)
@@ -26,6 +27,7 @@
 ### Education
 - 한성대학교 컴퓨터공학부 &nbsp; | &nbsp; 졸업 (2020.03 ~ 2024.08)
 - 신한투자증권 프로 디지털 아카데미 3기 &nbsp; | &nbsp; 수료 (2023.12 ~ 2024.06)
+- goorm PROFECT 풀스택 개발 과정 &nbsp; | &nbsp; 수료 (2024.01 ~ 2024.04)
 
 <br>
 
