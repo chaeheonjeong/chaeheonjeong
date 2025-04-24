@@ -2,10 +2,10 @@
 ### Skill
 - **Languages**
   
-  Java, JavaScript, HTML/CSS
+  JavaScript, TypeScript, HTML/CSS, Java
 - **Fameworks & Libraries**
 
-  Spring Boot, Node.js, Express.js, React.js
+  React.js, Spring Boot, Node.js, Express.js
 - **Infrastructure & Databases**
   
   AWS, Docker, MariaDB, MongoDB
